@@ -46,4 +46,7 @@ Werkzeug==3.1.5
 whitenoise==6.11.0
 xhtml2pdf==0.2.17
 python-bidi==0.6.7
+<<<<<<< HEAD
 python-bidi==0.6.7
+=======
+>>>>>>> 9bc091381fce76e7400746fce312cd8012fa422e
